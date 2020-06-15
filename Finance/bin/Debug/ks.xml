@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ks_K1>45</ks_K1>
+  <ks_K2>20</ks_K2>
+  <ks_K3>10</ks_K3>
+  <ks_K4>15</ks_K4>
+  <ks_K5>5</ks_K5>
+  <ks_K6>5</ks_K6>
+  <ks_d_K1>1</ks_d_K1>
+  <ks_d_K2>1</ks_d_K2>
+  <ks_d_K3>1</ks_d_K3>
+  <ks_d_K4>1</ks_d_K4>
+  <ks_d_K5>1</ks_d_K5>
+  <ks_d_K6>3</ks_d_K6>
+</ks>
